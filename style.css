@@ -1,0 +1,35 @@
+body{
+    background-image: url(background4.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    margin-left: 60%;
+    margin-top: -17px;
+}
+
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+    padding-top: 2px;
+    text-decoration: underline;
+    padding-left: 566px;
+    font-family: cursive;
+}
+input{
+    text-align: right;
+    height: 54px;
+    width: 326px;
+    font-size: xx-large;
+    margin-top: 65px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+}
+button{
+    height: 58px;
+    width: 81px;
+    cursor: pointer;
+}
